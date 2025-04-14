@@ -1,8 +1,9 @@
 # 2D Java Game Framework
 
+# Contributor 2025 : Houssem Eddine 
 A collection of classes used for 2d game programming in Java. Much of the dirty work is taken care which makes this useful for beginner game programmers. 
 
-## Installation
+## Installation 2025
 
 1. install the java JDK7.
 2. clone this repo.
